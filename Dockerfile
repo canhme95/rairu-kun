@@ -1,8 +1,9 @@
 FROM ubuntu:20.04 as system
+
+RUN sed -i 's#http://archive.ubuntu.com/ubuntu/#mirror://mirrors.ubuntu.com/mirrors.txt#' /etc/apt/sources.list;
 ARG NGROK_TOKEN
 ARG REGION=ap
-ENV DEBIAN_FRONTEND=noninteractive \
-    DEBCONF_NONINTERACTIVE_SEEN=true
+ENV DEBIAN_FRONTEND=noninteractive
 RUN apt update && apt upgrade -y && apt install -y \
     ssh wget unzip vim curl python3
 RUN apt-get -qqy update \
