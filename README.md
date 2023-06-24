@@ -9,7 +9,7 @@
 
 ### Deploy Tutorial for Railway
 
-1. Create [Railway Account](https://railway.app?referralCode=dG01iI) account or use an existing account.
+1. Create [Railway Account](https://railway.app?referralCode=lIsCI-) account or use an existing account.
 
 2. Create [Ngrok Account](https://dashboard.ngrok.com/).
 
@@ -21,7 +21,7 @@ ps: One ngrok account can only use 1 active agent, if you want to run multiple a
 
 Click the Railway button at the Below 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BzFWCH?referralCode=dG01iI)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BzFWCH?referralCode=lIsCI-)
 
 Fill the `NGROK_TOKEN` with your Token.
 
@@ -34,7 +34,7 @@ Fill the `NGROK_TOKEN` with your Token.
 ### VPS Gratis SEUMUR HIDUP!!!
 
 ### Tutorial Deploy VPS
-1. Buat [Akun Railway](https://railway.app?referralCode=dG01iI) atau gunakan akun yang ada.
+1. Buat [Akun Railway](https://railway.app?referralCode=lIsCI-) atau gunakan akun yang ada.
 
 2. Buat atau login ke [Akun Ngrok](https://dashboard.ngrok.com/).
 
@@ -45,7 +45,7 @@ ps: Satu akun ngrok hanya dapat menggunakan 1 agen aktif, jika Anda ingin menjal
 ## Waktunya Deploy 🔥
 Klik tombol dibawah ini ⬇️
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BzFWCH?referralCode=dG01iI)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BzFWCH?referralCode=lIsCI-)
 
 Isi ```NGROK_TOKEN``` dengan Tokenmu.
 
